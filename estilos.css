@@ -1,0 +1,116 @@
+#menu
+{
+    height: 62px;
+}
+
+#menu ul
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    
+}
+#menu #item
+{
+    margin: 0;
+    float: left;
+}
+#menu #item a{
+    
+    background: #005883;
+    color: cornsilk;
+    padding:  12px 22px;
+    display: block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16 px;
+    text-decoration: none;
+}
+#menu #desple
+{
+    display: none;
+    position: absolute;
+    
+}
+#menu #item a:hover
+{
+    background: #F0B429;
+    
+}
+#menu #item:hover #desple
+{
+    display:block;
+}
+.titulo
+{
+    color: #005883;
+    margin: 0px 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.subtitulos
+{
+    color: #005883;
+    margin: 0px 400px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.titulosh3
+{
+    color: #005883;
+    margin: 0px 350px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.celdas
+{
+    color: #333333;
+    margin: 0px 150px;
+    padding:  0 42px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 30%
+}
+.logo
+{
+    float: left;
+}
+.marco
+{
+    
+    margin: 0px -140px;
+    float: left;
+}
+.widget
+{
+    width: 300px;
+    margin: 0px 270px;
+}
+.conceptos
+{
+    color: #005883;
+    margin: 0px 380px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tituloconceptos
+{
+    color: #005883;
+    margin: 0px 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.titulosh3conceptos
+{
+    color: #005883;
+    margin: 0px 330px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.imagenconceptos1
+{
+    margin: 0px 140px;
+}
+.referenciaimagen
+{
+    margin: 0px 240px;
+}
+.imagenconceptos2
+{
+    margin: 0px 240px;
+}
